@@ -1,5 +1,5 @@
 {
-    "_base": "http://raw.githubusercontent.com/taconi/dough-fox/main/",
+    "_base": "https://raw.githubusercontent.com/taconi/dough-fox/main/",
     "1": [
         "samples/_/1/one1.wav",
         "samples/_/1/one2.wav"
